@@ -1,0 +1,43 @@
+1.1- JAVA -> Java é uma linguagem de programação de propósito geral conhecida por sua portabilidade, já que os programas Java podem ser executados em diferentes plataformas sem modificações.
+É uma linguagem compilada, o que significa que o código-fonte é compilado em bytecode e depois executado pela Máquina Virtual Java (JVM).
+Essa linguagem é amplamente utilizado no desenvolvimento de aplicativos para desktop, aplicativos móveis (Android) e sistemas empresariais. Ou seja, é portável e escalável.Tem uma 
+comunidade forte e extensa. 
+
+1.2- PHYTON -> é considerada uma das linguagens mais fáceis, quando não a mais fácil de aprender. Com uma sintaxe simples e extremamente legível, torna o desenvolvimento menos verboso.
+Apesar de não ter tido Machine Learning e Extração de Dados como objetivos ao ser criada, ganhou muita força nessas áreas nos últimos anos. Python é uma linguagem de programação de alto 
+nível, conhecida por sua simplicidade e legibilidade. Além de ser interpretada, o que significa que o código-fonte é executado diretamente sem a necessidade de compilação. Python é 
+amplamente utilizado para desenvolvimento web, automação, análise de dados, aprendizado de máquina e muitas outras aplicações.
+
+1.3- C++ -> C++ é uma linguagem de programação de médio nível, que permite o controle direto da memória e é amplamente usada no desenvolvimento de sistemas, jogos e software de alto 
+desempenho. É uma linguagem compilada, onde o código é traduzido em código de máquina diretamente. C++ oferece recursos de programação orientada a objetos e é conhecido por sua eficiência
+e velocidade.
+
+
+2- Tente fazer um código mínimo em cada uma delas e tente executar esse código. 
+
+JAVA: 
+Copy code
+// Exemplo em Java: Olá, Mundo!
+public class OlaMundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!");
+    }
+}
+
+PHYTON: 
+Copy code
+# Exemplo em Phyton: Olá, Mundo! 
+print("Olá, Mundo!")
+
+
+C++: 
+cpp
+Copy code
+// Exemplo em C++: Olá, Mundo!
+#include <iostream>
+using namespace std;
+
+int main() {
+    std::cout << "Olá, mundo!" << std::endl;
+    return 0; 
+}
