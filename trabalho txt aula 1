@@ -1,0 +1,17 @@
+1 - No contexto da computação, um arquivo é uma coleção de dados armazenados sob um nome exclusivo que pode ser identificado pelo sistema operacional.
+Pode conter diversas informações como textos, imagens, vídeos ou qualquer outro tipo de dados e é armazenado em dispositivos de armazenamento como discos rígidos, SSDs ou pen drives.
+Os arquivos são manipulados por programas e sistemas operacionais por meio de operações de leitura, gravação e exclusão.
+
+1.1 - Um arquivo de texto é um tipo de arquivo que armazena dados usando caracteres alfabéticos, caracteres numéricos e símbolos comuns na linguagem humana.
+É legível por humanos e não requer nenhum processamento especializado para interpretação.
+Arquivos de texto são utilizados para armazenar diversas informações, como documentos, código-fonte de programas, configurações do sistema, entre outras.
+Eles são simples, portáteis e compatíveis com diferentes sistemas operacionais e aplicativos de software.
+
+2 - Uma variável, no contexto da programação de computadores, é um local de armazenamento na memória do computador que contém um valor atribuído pelo programador.
+Possui um nome único e pode armazenar diversos tipos de dados, como números, texto, booleanos, entre outros.
+As variáveis ​​são fundamentais para a manipulação e processamento de dados em programas de computador, pois permitem que valores sejam armazenados, recuperados, modificados e utilizados em operações lógicas e aritméticas.
+
+3 - No contexto da computação, um servidor é um sistema de computador ou software que fornece serviços, recursos ou funções a outros dispositivos ou programas, chamados clientes.
+O servidor responde às solicitações dos clientes, distribui recursos e facilita a comunicação e o compartilhamento de informações na rede.
+Eles desempenham um papel central na infraestrutura de rede e são essenciais para hospedar sites, armazenar dados, executar aplicativos, etc.
+
