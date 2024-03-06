@@ -1,0 +1,19 @@
+Exemplo de estrutura de repetição no Python do 'FOR'
+
+marcas = ["Bmw", "Volvo", "Mercedes", "Fiat", "Citroen", "Hyundai"]
+
+print("Marcas de carros:")
+for marca in marcas:
+    print(marca)
+
+Exemplo de estrutura de Tomada de decisão no Python com o uso de 'elif'
+
+idade = 18
+
+if idade >= 18 and idade < 25:
+    print ("Voce ja pode tirar a carteira de motorista")
+elif idade >= 25 and idade < 80:
+    print ("Porque voce ainda nao tirou a sua carteira de motorista?")
+else:
+    print ("Voce NAO pode tirar a sua carteira de motorista")
+
