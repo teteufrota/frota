@@ -8,14 +8,17 @@ for marca in marcas:
 
 Exemplo de estrutura de Tomada de decisão no Python com o uso de 'elif'
 
-idade = 18
+idade = 85
 
 if idade >= 18 and idade < 25:
     print ("Voce ja pode tirar a carteira de motorista!")
 elif idade >= 25 and idade < 60:
     print ("Porque voce ainda nao tirou a sua carteira de motorista?")
-elif idade >= 60 and idade < 100:
+elif idade >= 60 and idade < 85:
     print ("Voce vai acabar nunca tirando sua carteira de motorista!")
+elif idade >= 85 and idade < 110:
+    print ("Vai ser muito dificil para voce vai tirar a carteira de motorista")
+    print ("Capaz de voce ja estar muito velho para dirigir")
 else:
     print ("Voce NAO pode tirar a sua carteira de motorista!")
 
