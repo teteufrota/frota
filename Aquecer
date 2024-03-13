@@ -1,0 +1,29 @@
+ELIF - 
+
+idade = 85
+
+if idade >= 18 and idade < 25:
+    print ("Voce ja pode tirar a carteira de motorista!")
+elif idade >= 25 and idade < 60:
+    print ("Porque voce ainda nao tirou a sua carteira de motorista?")
+elif idade >= 60 and idade < 85:
+    print ("Voce vai acabar nunca tirando sua carteira de motorista!")
+elif idade >= 85 and idade < 110:
+    print ("Vai ser muito dificil para voce vai tirar a carteira de motorista")
+    print ("Capaz de voce ja estar muito velho para dirigir")
+else:
+    print ("Voce NAO pode tirar a sua carteira de motorista!")
+
+WHILE e FOR- 
+
+cont = 0
+while cont <21:
+    print("Contagem em Numero Par:", cont)
+    cont = cont + 2
+
+seq = [0, 'casa', 34, 'amarelo', 'banana', 53]
+for coisa in seq:
+    print(coisa)
+    if coisa == 'amarelo':
+        print("É um adjetivo")
+print("terminou")
