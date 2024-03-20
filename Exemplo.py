@@ -17,16 +17,14 @@ quadrado = (a * a)
 print ("O quadrado de um dos numeros é", quadrado)
 dobro = (c + c)
 print ("O dobro de um dos numeros é", dobro)
-letras = 5
+letras = len(palavra)
 print ("A quantidade de letras da palavra é", letras)
-espaço = 4
+espaço = frase.count(' ')
 print ("A quantidade de espaços da frase é", espaço)
+qual = (a > b)
+print ("O primeiro numero é maior que o segundo?", qual)
+maior = max (a, b, c, d)
+print ("O maior numero é", maior)
 
-maior = True
-menor = False
-
-resultado1 = a and b
-resultado2 = a or b
-resultado3 = not a
 
 
