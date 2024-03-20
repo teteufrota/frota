@@ -14,9 +14,9 @@ palavra = "Valor"
 media = (a + b + c + d) / 4
 print ("A media é", media)
 quadrado = (a * a)
-print ("O quadrado de um dos numeros é", quadrado)
+print ("O quadrado de 20 é", quadrado)
 dobro = (c + c)
-print ("O dobro de um dos numeros é", dobro)
+print ("O dobro de 40 é", dobro)
 letras = len(palavra)
 print ("A quantidade de letras da palavra é", letras)
 espaço = frase.count(' ')
